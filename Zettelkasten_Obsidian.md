@@ -23,10 +23,10 @@ Como criar e usar Modelos de Nota (Templates) no Obsidian
 https://www.youtube.com/watch?v=lXN23trHmcg
 
 Zettel - 01
-[https://www.youtube.com/playlist?list=PLDqW-1S81BkPLpmJvNdJ6Wc2P8XccR9N5](https://www.youtube.com/playlist?list=PLDqW-1S81BkPLpmJvNdJ6Wc2P8XccR9N5)
-Zettel - 02
-[https://www.youtube.com/playlist?list=PLRmtsLED6y814EZu9fr8V7jSUD3uaE-SQ](https://www.youtube.com/playlist?list=PLRmtsLED6y814EZu9fr8V7jSUD3uaE-SQ)
+https://www.youtube.com/playlist?list=PLDqW-1S81BkPLpmJvNdJ6Wc2P8XccR9N5
 
+Zettel - 02
+https://www.youtube.com/playlist?list=PLRmtsLED6y814EZu9fr8V7jSUD3uaE-SQ
 
 Playlists
 https://www.youtube.com/feed/playlists
